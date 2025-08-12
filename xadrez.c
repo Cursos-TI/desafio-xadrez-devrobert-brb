@@ -42,8 +42,8 @@ int main(){
 
     //Cavalo com FOR
     printf("Movendo o cavalo... \n");
-    for(int l=0; l <= 3; l++) {
-        if (l == 3) {
+    for(int l=0; l <= 2; l++) {
+        if (l == 2) {
             printf("Direita \n");
         } else {
             printf("Cima \n");
